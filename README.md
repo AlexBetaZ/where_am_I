@@ -1,5 +1,5 @@
 ## where_am_i ##
-  This is a robot localization object. In this project, the ROS AMCL package is utilized to accurately localize a mobile robot inside a map in the Gazebo simulation environments.
+  This is a robot localization project. In this project, the ROS AMCL package is utilized to accurately localize a mobile robot inside a map in the Gazebo simulation environments.
 ### Configuration ###
 - Ubuntu 16.04.6 xenial
 - gazebo 7.15.0
