@@ -21,7 +21,7 @@
 ```
   Second, clone the repository:
 ```
-  git clone https://github.com/AlexBetaZ/where_am_i.git
+  git clone https://github.com/huanalexzhao/where_am_i.git
 ```
   The last, build the project:
 ```
